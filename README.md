@@ -8,11 +8,9 @@ Este projeto objetiva o desenvolvimento de uma aplicação WEB para aprender um 
 </p>
 
 
-  ![image](https://github.com/EduardoPH/RealTime/assets/88357842/d47ae576-2707-45b3-b713-b26638f77ad8)
-
-
-
-
+<p align="center">
+  <img src="https://github.com/EduardoPH/RealTime/assets/88357842/d47ae576-2707-45b3-b713-b26638f77ad8">
+</p>
 
 ## Demonstração
 
