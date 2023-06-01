@@ -8,11 +8,10 @@ Este projeto objetiva o desenvolvimento de uma aplicação WEB para aprender um 
 </p>
 
 <p align="center">
-  <img src="./image.png">
+  ![image](https://github.com/EduardoPH/RealTime/assets/88357842/d47ae576-2707-45b3-b713-b26638f77ad8)
 </p>
 
 
-![FAD0B51B-0E12-409D-AE57-C3EFE41FB649_4_5005_c](https://github.com/EduardoPH/BallAnimation/assets/88357842/7af12e8b-abd3-47b8-8fcc-f4daba84ef5e)
 
 
 ## Demonstração
