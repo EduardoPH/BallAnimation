@@ -10,6 +10,8 @@ Este projeto objetiva o desenvolvimento de uma aplicação WEB para aprender um 
 <p align="center">
   <img src="./image.png">
 </p>
+![C5E6AF62-A693-4DD8-B182-27B2FE4BD02F_4_5005_c](https://github.com/EduardoPH/BallAnimation/assets/88357842/90e5f882-9c0f-4a3a-aac7-2a8b9a0a56f8)
+
 
 
 ## Demonstração
